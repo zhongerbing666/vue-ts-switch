@@ -1,0 +1,24 @@
+{
+  "name": "vue-ts-switch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongerbing666/vue-ts-switch.git"
+  },
+  "keywords": [
+      "vue",
+      "ts",
+      "typescript"
+  ],
+  "author": "wangkesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongerbing666/vue-ts-switch/issues"
+  },
+  "homepage": "https://github.com/zhongerbing666/vue-ts-switch#readme"
+}
