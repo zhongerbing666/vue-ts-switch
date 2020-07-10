@@ -5,7 +5,7 @@
 npm i vue-ts-switch
 
 #### Example
-```
+```Typescript
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
 import loading from 'vue-ts-switch'
