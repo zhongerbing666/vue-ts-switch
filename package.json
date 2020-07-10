@@ -1,6 +1,6 @@
 {
   "name": "vue-ts-switch",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
       "vue",
       "ts",
-      "typescript"
+      "typescript",
+      "Decorators"
   ],
   "author": "wangkesi",
   "license": "ISC",
