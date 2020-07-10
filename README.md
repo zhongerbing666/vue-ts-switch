@@ -2,7 +2,7 @@
 优雅的完成异步操作之外的开关状态，可以使用在loading的状态或者遮罩层的状态
 
 
-#### demo
+#### Example
 ```
 <script lang="ts">
 import { Component, Prop, Vue } from 'vue-property-decorator';
